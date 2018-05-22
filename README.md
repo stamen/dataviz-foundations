@@ -98,7 +98,7 @@ Use these to experiment with data visualization tools and techniques.
  * [Cherry Blossom History in Kyoto, Japan](https://bl.ocks.org/thulse/ba5299b7b0b13c2511166c697d41d42d)
  * [Computer Science Degrees by Gender over Time](https://bl.ocks.org/sajudson/772c6d0f442c16f98928bf5831646cb0)
  * [Bike Sharing in Washington DC](https://bl.ocks.org/sajudson/d8d4909fa0512302a95b1e0982a07c0f)
- * [Movies (IMBD, Kaggle)](https://bl.ocks.org/adamfknapp/42793e26c7f4f6eb4dc22174658b7257)
+ * [Movies (IMBD, Kaggle)](https://bl.ocks.org/adamfknapp/42793e26c7f4f6eb4dc22174658b7257) [data link](https://gist.githubusercontent.com/adamfknapp/42793e26c7f4f6eb4dc22174658b7257/raw/53fa85913417163ac3c041b967f271044262100c/data.csv)
  * [Firearm Permits](https://bl.ocks.org/adamfknapp/1de11cbce59ad89009ff4d61bede70a4)
  * [Earnings by College Major](https://bl.ocks.org/echomelodylwh/d01bedeb99325c27e97f164d8ce7ca9c)
  * [Global Land Temperature Since 1750](https://bl.ocks.org/anqi-lu/99134b5263dc4315fff44e2c68b8eafd)
